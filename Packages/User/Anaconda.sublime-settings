@@ -1,0 +1,6 @@
+{
+"anaconda_linting": false,
+"cmd": ["/usr/local/bin/python3", "$file"],
+ "selector": "source.python",
+ "file_regex": "file \"(...*?)\", line ([0-9]+)"
+}
